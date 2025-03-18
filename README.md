@@ -1,4 +1,6 @@
+# Portfolio Website  
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <br/>
 
@@ -16,7 +18,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfolio-three-mu-99.vercel.app/" target="_blank">tife.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -56,3 +58,41 @@ You will find all the components used and you can edit your information accordin
 
 =======
 >>>>>>> 521656613251003535131e506c0dced4e0107484
+=======
+Welcome to my **Portfolio Website**! This site showcases my work, skills, and projects in a clean and professional layout.  
+
+## 🌟 Features  
+
+- **Responsive Design** – Works on all devices (mobile, tablet, desktop).  
+- **Modern UI** – Clean and minimalistic layout with a **purple theme**.  
+- **Project Showcase** – Display your best work with images, descriptions, and links.  
+- **Contact Form** – Allows visitors to reach out to you.  
+- **Social Media Links** – Connect with visitors via LinkedIn, GitHub, etc.  
+
+## 🚀 Live Demo  
+
+🔗 (https://portfolio-three-mu-99.vercel.app/)  
+
+## 🛠️ Installation & Setup  
+
+If you want to run the site locally:  
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/isaacog12/portfolio.git
+   cd portfolio
+
+   🎯 Future Updates
+✅ Blog Section
+✅ Dark Mode
+✅ CMS Integration
+
+Stay tuned for updates! 🚀
+
+📜 License
+This project is open-source. Feel free to modify and use it for your portfolio! 💜
+
+---
+
+This README is structured to help others understand my portfolio website while being easy to modify. Let me know if you need any changes! 🚀
+>>>>>>> 29a1ccc47a756619f374b560691f21d6cb2edc47
