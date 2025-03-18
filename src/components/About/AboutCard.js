@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">OGBOMO ISAAC </span>
-            from <span className="purple"> Ore-Edo, Nigeria.</span>
+            from <span className="purple"> Abuja, Nigeria.</span>
             <br />
             I am currently a student at Veritas University Abuja..
             <br />
