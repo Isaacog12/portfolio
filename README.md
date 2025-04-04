@@ -18,7 +18,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://portfolio-three-mu-99.vercel.app/" target="_blank">tife.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://tife-99.vercel.app//" target="_blank">tife.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -71,7 +71,7 @@ Welcome to my **Portfolio Website**! This site showcases my work, skills, and pr
 
 ## 🚀 Live Demo  
 
-🔗 (https://portfolio-three-mu-99.vercel.app/)  
+🔗 ((https://tife-99.vercel.app/))  
 
 ## 🛠️ Installation & Setup  
 
